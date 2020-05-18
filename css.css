@@ -1,0 +1,11 @@
+.col-3, .col-6{
+    border: solid 1px white;
+    background: #fbcb74;  
+    height: 100px;
+}
+.col-5, .col-10, .col-2{
+    border: solid 1px white;
+    background: red;
+    color:white;
+    height: 80px;
+}
